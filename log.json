@@ -1,0 +1,22 @@
+[
+    {
+        "TrxID": "1",
+        "APIKey": "d7fb973c-b60a-4844-ac23-01b4af5f8e9d",
+        "Code": "1",
+        "Mess": "Xử lý xong",
+        "Reason": "Thành công",
+        "CardValue": "10000",
+        "CardCode": "023289784367773",
+        "CardSeri": "20000237628010"
+    },
+    {
+        "TrxID": "2",
+        "APIKey": "d7fb973c-b60a-4844-ac23-01b4af5f8e9d",
+        "Code": "1",
+        "Mess": "Xử lý xong",
+        "Reason": "Thành công",
+        "CardValue": "10000",
+        "CardCode": "75424004783552",
+        "CardSeri": "59000021884690"
+    }
+]
