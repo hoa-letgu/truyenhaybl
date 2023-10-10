@@ -1,0 +1,16 @@
+<?php return array (
+  'theme' => 'mangareader',
+  'lang' => 'vi',
+  'site_url' => 'https://truyenhaybl.com',
+  'tag_footer' => 'Truyện Tranh Boy Love |Truyện Mới BL |Truyện BL  2023| Truyện Hay BL',
+  'newupdate_home' => '24',
+  'general_page' => '24',
+  'total_related' => '6',
+  'total_pin' => 6,
+  'SBhistory' => '6',
+  'SBpopular' => '6',
+  'analytics_id' => '',
+  'is_cache' => 'on',
+  'CacheTime' => 300,
+  'FBAppID' => '583520393801289',
+);
